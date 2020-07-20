@@ -1,0 +1,10 @@
+{
+  "name": "antiphishingpassword",
+  "title": "AntiPhishingPassword",
+  "id": "jid1-KTCm4BZSizBXyg",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1", 
+  "permissions": { "cross-domain-content": ["http://Pooh-PC:8080/"] }
+}
